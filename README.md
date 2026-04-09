@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mankirat 👋
 
-<!--
-**MankiratMann710/MankiratMann710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student @ Ontario Tech University
 
-Here are some ideas to get you started:
+I build full-stack web apps, data tools, and the occasional game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python · JavaScript · C++ · SQL · Kotlin  
+**Frameworks:** Node.js · Express · D3.js  
+**Tools:** MongoDB · PostgreSQL · Git · Jupyter
+
+## 🚀 Projects
+- **Booknest** — Full-stack digital library with D3.js analytics
+- **Court Hearing Search Portal** — Search engine for Ontario virtual court hearings
+- **Sorting Visualizer** — Interactive algorithm visualizer
+- **Pacman** — Built with Python & Pygame
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/mankirat-mann-606940343) · [Email](mailto:mankiratmann555@gmail.com)
