@@ -10,6 +10,7 @@ I build full-stack web apps, data tools, and the occasional game.
 **Tools:** MongoDB · PostgreSQL · Git · Jupyter
 
 ## 🚀 Projects
+- **Money Moves** - Frontend + AI budgeting app
 - **Booknest** — Full-stack digital library with D3.js analytics
 - **Court Hearing Search Portal** — Search engine for Ontario virtual court hearings
 - **Sorting Visualizer** — Interactive algorithm visualizer
